@@ -1,0 +1,34 @@
+.user-card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9;
+    margin-top: 20px;
+  }
+  
+  .user-card h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .user-card p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .user-card button {
+    margin-right: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .user-card button:hover {
+    background-color: #0069d9;
+  }
+  
